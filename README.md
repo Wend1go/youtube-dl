@@ -1,3 +1,6 @@
+# This is a fork to protest against the takedown of Youtube-DL due to DMCA - Take your hands off free software!
+
+
 [![Build Status](https://travis-ci.com/l1ving/youtube-dl.svg?branch=master)](https://travis-ci.com/l1ving/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms
